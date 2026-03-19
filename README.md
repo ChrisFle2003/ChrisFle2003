@@ -41,9 +41,8 @@ https://github.com/ChrisFle2003/Bruce_raw
 Bruce RAG architecture experiments  
 https://github.com/ChrisFle2003/BRUCE-RAG-System
 
-Upcoming concept repository
-
-Bruce Version Z Makeover (coming soon)
+Bruce Version Z Makeover Release
+https://github.com/ChrisFle2003/BRUCE-Version-Z-Makeover-realese
 
 ---
 
