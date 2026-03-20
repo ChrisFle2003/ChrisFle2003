@@ -2,90 +2,88 @@
 
 # Christopher Flegel
 
-Vienna, Austria  
-AI Architecture • Knowledge Systems • Infrastructure
+**Wien, Österreich**  
+KI-Systeme • Wissensarchitektur • Infrastruktur
 
 ---
 
-## About Me
+## Über mich
 
-I am interested in the architecture of AI systems, especially how knowledge, infrastructure and models can work together as reliable systems.
+Ich beschäftige mich mit der Entwicklung von KI-Systemen, die nicht nur leistungsfähig, sondern auch nachvollziehbar, kontrollierbar und praktisch einsetzbar sind.
 
-My focus areas include:
+Mein Schwerpunkt liegt an der Schnittstelle von:
 
-- deterministic AI concepts
-- knowledge retrieval architectures
-- system and infrastructure design
-- resource-efficient AI systems
+- KI-Systemarchitektur
+- strukturierten Wissenssystemen
+- Retrieval-basierten Ansätzen
+- deterministischen Konzepten
+- Infrastruktur für zuverlässige KI-Anwendungen
 
-I enjoy experimenting with different approaches to AI systems and exploring how they can become more explainable, controllable and practical for real-world use.
-
----
-
-## Bruce Projects
-
-One of my main experimental projects is **Bruce**, a series of architecture explorations around deterministic AI and structured knowledge systems.
-
-The idea behind Bruce is to investigate alternatives to purely generative AI systems by combining:
-
-- hierarchical knowledge organization
-- structured retrieval
-- deterministic template logic
-- explainable reasoning pipelines
-
-Repositories:
-
-Bruce raw architecture prototype  
-https://github.com/ChrisFle2003/Bruce_raw
-
-Bruce RAG architecture experiments  
-https://github.com/ChrisFle2003/BRUCE-RAG-System
-
-Bruce Version Z Makeover Release  
-https://github.com/ChrisFle2003/BRUCE-Version-Z-Makeover-realese
+Mich interessiert besonders, wie Modelle, Wissensorganisation und Systemumgebungen gemeinsam als ein stimmiges, ressourceneffizientes Gesamtsystem funktionieren können.
 
 ---
 
-## Infrastructure & Systems
+## Bruce-Projekte
 
-I am also interested in the infrastructure side of software systems.
+Eines meiner zentralen experimentellen Projektfelder ist **Bruce** – eine Reihe von Architekturkonzepten rund um deterministische KI, strukturierte Wissenssysteme und nachvollziehbare Verarbeitungs- und Retrieval-Pipelines.
 
-Experience areas:
+Das Ziel hinter Bruce ist es, Alternativen und Erweiterungen zu rein generativen KI-Systemen zu erforschen, unter anderem durch die Kombination von:
 
-- Linux administration
-- Docker containers
-- Proxmox virtualization
-- networking and server infrastructure
-- development environments for AI systems
+- hierarchischer Wissensorganisation
+- strukturierten Retrieval-Pipelines
+- deterministischer Template-Logik
+- nachvollziehbaren Verarbeitungsabläufen
+- ressourceneffizientem Systemdesign
 
-Understanding the system environment around AI models is something I consider important for building reliable applications.
+### Repositories
 
----
-
-## Other Projects
-
-Command line cheat sheet repository  
-Bash / CMD / PowerShell commands and examples
-
-App Killer v9000  
-Small tool for cleaning reserved RAM and VRAM resources
+- [Bruce Raw Architecture Prototype](https://github.com/ChrisFle2003/Bruce_raw)
+- [Bruce RAG Architecture Experiments](https://github.com/ChrisFle2003/BRUCE-RAG-System)
+- [Bruce Version Z Makeover Release](https://github.com/ChrisFle2003/BRUCE-Version-Z-Makeover-realese)
 
 ---
 
-## Current Interests
+## Infrastruktur & Systeme
 
-Topics I enjoy exploring:
+Neben KI-Architektur interessiere ich mich stark für die infrastrukturelle Seite moderner Softwaresysteme.
 
-- AI system architecture
-- deterministic reasoning systems
-- semantic knowledge organization
-- retrieval pipelines
-- low-resource AI systems
-- infrastructure for AI workloads
+Zu meinen praktischen Interessens- und Erfahrungsbereichen gehören:
+
+- Linux-Administration
+- Docker-Container
+- Proxmox-Virtualisierung
+- Netzwerk- und Serverinfrastruktur
+- Entwicklungsumgebungen für KI-nahe Systeme
+
+Ich bin überzeugt, dass zuverlässige KI-Anwendungen nicht nur gute Modelle brauchen, sondern ebenso stabile Infrastruktur, klare Systemarchitektur und verständliche Betriebsumgebungen.
+
+---
+
+## Weiteres
+
+### Command Line Cheat Sheet
+Ein Repository mit Bash-, CMD- und PowerShell-Befehlen, Beispielen und praktischen Notizen.
+
+### App Killer v9000
+Ein kleines Tool zur Bereinigung reservierter RAM- und VRAM-Ressourcen.
+
+---
+
+## Aktuelle Interessensgebiete
+
+Themen, mit denen ich mich aktuell besonders gerne beschäftige:
+
+- KI-Systemarchitektur
+- deterministische KI-Konzepte
+- semantische Wissensorganisation
+- Retrieval-Pipelines
+- erklärbare Verarbeitungssysteme
+- ressourceneffiziente KI
+- Infrastruktur für KI-Workloads
 
 ---
 
 ## GitHub
 
-Main profile  
-https://github.com/ChrisFle2003
+**Hauptprofil**  
+[github.com/ChrisFle2003](https://github.com/ChrisFle2003)
