@@ -41,7 +41,7 @@ Das Ziel hinter Bruce ist es, Alternativen und Erweiterungen zu rein generativen
 - [Bruce RAG Architecture Experiments](https://github.com/ChrisFle2003/BRUCE-RAG-System)
 - [Bruce Version Z Makeover Release](https://github.com/ChrisFle2003/BRUCE-Version-Z-Makeover-realese)
      - Release besteht nur aus Dokumentation und Resultaten, aber keinen Code
-     - Auf Anfrage, füge ich Sie in mein REPO hinzu. :D
+     - Auf Anfrage, füge ich Sie zu mein REPO hinzu. :D
        ( christopher.philip.flegel@gmail.com )
 
 ---
