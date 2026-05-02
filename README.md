@@ -1,12 +1,12 @@
 ## Hello there ;D
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ----------------
 
 # 👤 Christopher Flegel
 
 # Technik-Systeme | Mechanik | Elektronik | CAD / CNC / 3D-Druck
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ----------------
 
 📍 Wien, Österreich
 🔗 GitHub: github.com/ChrisFle2003
@@ -102,8 +102,8 @@ Tele-Tec Telekommunikation
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ----------------
 
 # „Wissen ist Gold wert — Bewegung macht daraus Fortschritt.“
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ----------------
