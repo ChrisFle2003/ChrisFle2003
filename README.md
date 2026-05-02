@@ -9,6 +9,7 @@
 ---
 
 📍 Wien, Österreich
+
 🔗 GitHub: github.com/ChrisFle2003
 
 ---
@@ -25,9 +26,13 @@ Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen
 ## 🎓 Ausbildung
 
 **05/2024** – IP/TCP Weiterbildung
+
 **09/2022 – 06/2023** – BFI IT-Schule Wien
+
 **03/2022** – WIFI Wien (C++ Grundlagen)
+
 **09/2020 – 01/2022** – HTL Bautechnik
+
 **09/2014 – 06/2018** – NMS IT
 
 ---
