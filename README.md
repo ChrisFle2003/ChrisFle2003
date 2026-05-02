@@ -1,92 +1,109 @@
 ## Hello there ;D
 
-# Christopher Flegel
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Wien, Österreich**  
-KI-Systeme • Wissensarchitektur • Infrastruktur
+# 👤 Christopher Flegel
 
----
+# Technik-Systeme | Mechanik | Elektronik | CAD / CNC / 3D-Druck
 
-## Über mich
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Ich beschäftige mich mit der Entwicklung von KI-Systemen, die nicht nur leistungsfähig, sondern auch nachvollziehbar, kontrollierbar und praktisch einsetzbar sind.
-
-Mein Schwerpunkt liegt an der Schnittstelle von:
-
-- KI-Systemarchitektur
-- strukturierten Wissenssystemen
-- Retrieval-basierten Ansätzen
-- deterministischen Konzepten
-- Infrastruktur für zuverlässige KI-Anwendungen
-
-Mich interessiert besonders, wie Modelle, Wissensorganisation und Systemumgebungen gemeinsam als ein stimmiges, ressourceneffizientes Gesamtsystem funktionieren können.
+📍 Wien, Österreich
+🔗 GitHub: github.com/ChrisFle2003
 
 ---
 
-## Bruce-Projekte
+## 🧠 Profil
 
-Eines meiner zentralen experimentellen Projektfelder ist **Bruce** – eine Reihe von Architekturkonzepten rund um deterministische KI, strukturierte Wissenssysteme und nachvollziehbare Verarbeitungs- und Retrieval-Pipelines.
+Technikbegeisterter Einsteiger mit starker Grundlage in EDV, Systemen und Hardware.
+Ziel ist die Verbindung von IT mit praktischer Technik – insbesondere Mechanik, Elektronik und digitaler Fertigung.
 
-Das Ziel hinter Bruce ist es, Alternativen und Erweiterungen zu rein generativen KI-Systemen zu erforschen, unter anderem durch die Kombination von:
-
-- hierarchischer Wissensorganisation
-- strukturierten Retrieval-Pipelines
-- deterministischer Template-Logik
-- nachvollziehbaren Verarbeitungsabläufen
-- ressourceneffizientem Systemdesign
-
-### Repositories
-
-- [Bruce Raw Architecture Prototype](https://github.com/ChrisFle2003/Bruce_raw)
-- [Bruce RAG Architecture Experiments](https://github.com/ChrisFle2003/BRUCE-RAG-System)
-- [Bruce Version Z Makeover Release](https://github.com/ChrisFle2003/BRUCE-Version-Z-Makeover-realese)
-     - Release besteht nur aus Dokumentation und Resultaten, aber keinen Code
-     - Auf Anfrage, füge ich Sie zu mein REPO hinzu. :D
-       ( christopher.philip.flegel@gmail.com )
+Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen, strukturiert zerlegen und schrittweise verbessern.
 
 ---
 
-## Infrastruktur & Systeme
+## 🎓 Ausbildung
 
-Neben KI-Architektur interessiere ich mich stark für die infrastrukturelle Seite moderner Softwaresysteme.
-
-Zu meinen praktischen Interessens- und Erfahrungsbereichen gehören:
-
-- Linux-Administration
-- Docker-Container
-- Proxmox-Virtualisierung
-- Netzwerk- und Serverinfrastruktur
-- Entwicklungsumgebungen für KI-nahe Systeme
-
-Ich bin überzeugt, dass zuverlässige KI-Anwendungen nicht nur gute Modelle brauchen, sondern ebenso stabile Infrastruktur, klare Systemarchitektur und verständliche Betriebsumgebungen.
+**05/2024** – IP/TCP Weiterbildung
+**09/2022 – 06/2023** – BFI IT-Schule Wien
+**03/2022** – WIFI Wien (C++ Grundlagen)
+**09/2020 – 01/2022** – HTL Bautechnik
+**09/2014 – 06/2018** – NMS IT
 
 ---
 
-## Weiteres
+## 💼 Berufserfahrung
 
-### Command Line Cheat Sheet
-Ein Repository mit Bash-, CMD- und PowerShell-Befehlen, Beispielen und praktischen Notizen.
+**10/2025 – 11/2025**
+Praktikum – DigiTechno e.U.
 
-### App Killer v9000
-Ein kleines Tool zur Bereinigung reservierter RAM- und VRAM-Ressourcen.
+**12/2024 – 06/2025**
+Frühschicht Aushilfe – Lidl
 
----
-
-## Aktuelle Interessensgebiete
-
-Themen, mit denen ich mich aktuell besonders gerne beschäftige:
-
-- KI-Systemarchitektur
-- deterministische KI-Konzepte
-- semantische Wissensorganisation
-- Retrieval-Pipelines
-- erklärbare Verarbeitungssysteme
-- ressourceneffiziente KI
-- Infrastruktur für KI-Workloads
+**12/2023 – 06/2024**
+Tele-Tec Telekommunikation
 
 ---
 
-## GitHub
+## ⚙️ Kompetenzen
 
-**Hauptprofil**  
-[github.com/ChrisFle2003](https://github.com/ChrisFle2003)
+### 🧩 Problemlösung & Denkweise
+
+* Logisches Lösen von EDV-Hindernissen und technischen Problemstellungen
+* strukturiertes Analysieren und Optimieren von Systemen
+* praxisorientiertes Lernen (Try & Improve)
+
+---
+
+### 🖥️ Systeme & IT
+
+* Proxmox VE, Docker, Linux (Ubuntu, Debian)
+* Netzwerkgrundlagen, Firewalls (OPNsense, pfSense, Sophos)
+* Server- & Hardware-Setup
+
+---
+
+### ⚙️ Mechanik & Fertigung
+
+* 3D-Druck (Setup, Leveling, Modelle testen)
+* CAD (TinkerCAD, erlernen von FreeCAD)
+* Interesse an CNC & Fertigungsprozessen
+
+---
+
+### ⚡ Elektronik & Hardware
+
+* Arduino / ESP32
+* einfache Schaltungen & Stromkreise
+* Interesse an Motoren & Steuerung
+
+---
+
+### 💻 Programmierung
+
+* Grundlagen in C/C++ und Python
+* Fokus: verstehen, analysieren, verbessern
+
+---
+
+### 🤖 KI & Systeme
+
+* Nutzung von KI-Tools für Debugging, Dokumentation und Struktur
+* Interesse an deterministischen Systemen und effizienten Architekturen
+
+---
+
+## 🎯 Interessen & Hobbys
+
+* Kochen & Grillen
+* Sport & Bewegung
+* Musik hören
+* Technik & eigene Projekte
+
+---
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# „Wissen ist Gold wert — Bewegung macht daraus Fortschritt.“
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
