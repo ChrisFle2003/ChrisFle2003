@@ -4,22 +4,41 @@
 
 # 👤 Christopher Flegel
 
-# Technik-Systeme | Mechanik | Elektronik | CAD / CNC / 3D-Druck
+## 🧠 Profil
+
+Technikbegeisterter Einsteiger mit starker Grundlage in EDV, Systemen und Hardware.
+
+Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen, strukturiert zerlegen und schrittweise verbessern.
+
+### Main Quest:
+- drifting and crusing with Bruce to make it brucig! ;D
+
+### kleine aber praktische Tool's 
+- MISSION: Side Quest
+
+### Hardware 
+- Server
+- PC's
+- Netzwerke
+
+### Software 
+- allgemeine System-Konzept entwicklung
+- erstellung der Software-Lösungen
+
+### Handwerk 
+( Meist nur mehr Therotische / Gedankliche, für Inspirationen / "Mind-Games" )
+- Mechanik
+- Elektronik
+- Konzepte / Ideen
+
+### CAD (TinkerCAD) / 3D-Druck
+- Hobbies
 
 ---
 
 📍 Wien, Österreich
 
 🔗 GitHub: github.com/ChrisFle2003
-
----
-
-## 🧠 Profil
-
-Technikbegeisterter Einsteiger mit starker Grundlage in EDV, Systemen und Hardware.
-Ziel ist die Verbindung von IT mit praktischer Technik – insbesondere Mechanik, Elektronik und digitaler Fertigung.
-
-Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen, strukturiert zerlegen und schrittweise verbessern.
 
 ---
 
