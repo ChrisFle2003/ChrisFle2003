@@ -4,6 +4,14 @@
 
 # 👤 Christopher Flegel
 
+---
+
+📍 Wien, Österreich
+
+🔗 GitHub: github.com/ChrisFle2003
+
+---
+
 ## 🧠 Profil
 
 Technikbegeisterter Einsteiger mit starker Grundlage in EDV, Systemen und Hardware.
@@ -33,12 +41,6 @@ Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen
 
 ### CAD (TinkerCAD) / 3D-Druck
 - Hobbies
-
----
-
-📍 Wien, Österreich
-
-🔗 GitHub: github.com/ChrisFle2003
 
 ---
 
