@@ -8,7 +8,7 @@
 
 📍 Wien, Österreich
 
-🔗 GitHub: github.com/ChrisFle2003
+🔗 GitHub: https://github.com/ChrisFle2003
 
 ---
 
