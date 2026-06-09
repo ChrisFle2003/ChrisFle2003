@@ -23,7 +23,7 @@ Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen
 
 ### Side Quest
 ( kleine aber praktische Tool's )
-- https://chrisfle2003.github.io/PDF-Color-Changer_Website/
+- [https://chrisfle2003.github.io/PDF-Color-Changer_Website/](https://github.com/ChrisFle2003/PDF-Color-Changer-for-Printer_Website)
 
 ### Hardware 
 - Server
@@ -129,6 +129,6 @@ Tele-Tec Telekommunikation
 
 ---
 
-# „Wissen ist Gold wert — Bewegung macht daraus Fortschritt.“
+# „Wissen ist Gold wert — achtsame behutsame Bewegung macht daraus Fortschritt.“
 
 ---
