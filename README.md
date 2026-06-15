@@ -1,134 +1,129 @@
-## Hello there ;D
+<div align="center">
 
----
+![Banner](assets/banner.svg)
 
-# 👤 Christopher Flegel
+# Christopher Flegel / Duzi
 
----
+**DE:** Wien, Österreich. Technik, Systeme, Hardware, Netzwerke und praktische Software-Ideen.  
+**EN:** Vienna, Austria. Systems, hardware, networking, and practical software ideas.
 
-📍 Wien, Österreich
+**DE:** Ich arbeite daran, Dinge zu verstehen, zu zerlegen, zu testen und Schritt für Schritt zu verbessern.  
+**EN:** I focus on understanding things, breaking them down, testing them, and improving them step by step.
 
-🔗 GitHub: https://github.com/ChrisFle2003
+</div>
 
----
+## Kurzprofil / Short Profile
 
-## 🧠 Profil
+**DE:** Technikbegeisterter Einsteiger mit starkem Praxisfokus in EDV, Linux-Systemen, Hardware, Netzwerken und eigenen Software-Ideen. Ich arbeite logisch, neugierig und lösungsorientiert: Probleme verstehen, zerlegen, testen und systematisch verbessern.  
+**EN:** Technology-focused beginner with a strong practical interest in IT, Linux systems, hardware, networking, and self-built software ideas. I work logically, curiously, and solution-oriented: understand problems, break them down, test them, and improve them step by step.
 
-Technikbegeisterter Einsteiger mit starker Grundlage in EDV, Systemen und Hardware.
+## Denkweise / Mindset
 
-Ich arbeite logisch, praxisorientiert und lösungsfokussiert: Probleme verstehen, strukturiert zerlegen und schrittweise verbessern.
+| DE | EN |
+|---|---|
+| Logisches Denken | Logical thinking |
+| Praxisorientiertes Lernen | Practical learning |
+| Genauigkeit | Accuracy |
+| Zuverlässigkeit | Reliability |
+| Technische Neugier | Technical curiosity |
+| Lösungsorientierung | Solution orientation |
 
-### Main Quest:
-- drifting and crusing with Bruce to make it brucig! ;D
+## Projektlandkarte / Project Map
 
-### Side Quest
-( kleine aber praktische Tool's )
-- [https://chrisfle2003.github.io/PDF-Color-Changer_Website/](https://github.com/ChrisFle2003/PDF-Color-Changer-for-Printer_Website)
+![Project Map](assets/project-map.svg)
 
-### Hardware 
-- Server
-- PC's
-- Netzwerke
+| Projekt / Project | Status / Status | Tech / Tech | DE | EN |
+|---|---|---|---|---|
+| PDF Color Changer Website | Aktiv / Active | HTML, CSS, JavaScript | Webprojekt zum Verändern von PDF-Farben für praktische Nutzung. | Web project for changing PDF colors for practical use. |
+| PDF Color Changer Python | Aktiv / Active | Python | Skript-Variante für denselben praktischen Zweck. | Script variant for the same practical purpose. |
+| MCP_REPO_Reader | Aktiv / Active | MCP, Python | Kleines Werkzeug zum strukturierten Lesen von Repositories. | Small tool for structured repository reading. |
+| Bash/CMD/PowerShell Cheat Sheet | Pflege / Maintenance | Markdown | Kompakte Sammlung nützlicher Befehle für den Alltag. | Compact collection of useful commands for everyday work. |
+| APP-Killer_v9000 | Experiment / Experiment | Bash, Windows Tools | Praktisches Hilfswerkzeug zum Beenden von Anwendungen. | Practical helper tool for terminating applications. |
+| BRUCE | Langfristig / Long-term | Deterministic architecture | Größeres Forschungs- und Architekturprojekt mit kontrolliertem Teaser-Status. | Larger research and architecture project with a controlled teaser status. |
 
-### Software 
-- allgemeine System-Konzept entwicklung
-- erstellung der Software-Lösungen
+## BRUCE Vorschau / BRUCE Preview
 
-### Handwerk 
-( Meist nur mehr Therotische / Gedankliche, für Inspirationen / "Mind-Games" )
-- Mechanik
-- Elektronik
-- Konzepte / Ideen
+![BRUCE Preview](assets/bruce-teaser.svg)
 
-### CAD (TinkerCAD) / 3D-Druck
-- Hobbies
+**DE:** BRUCE ist meine langfristige Forschungs- und Architekturidee rund um deterministische, KI-nahe Systeme, überprüfbare Entscheidungswege, Wissensstrukturen und effiziente Hardware-Nutzung. Der Fokus liegt nicht auf Black-Box-Magie, sondern auf nachvollziehbaren Schritten, Auditierbarkeit und kontrollierbarer Systemlogik.  
+**EN:** BRUCE is my long-term research and architecture idea around deterministic, AI-adjacent systems, traceable decision paths, knowledge structures, and efficient hardware usage. The focus is not black-box magic, but understandable steps, auditability, and controllable system logic.
 
----
+**DE:** Öffentliche Konzepte: deterministische Architektur, Wissenssysteme, Auditierbarkeit, Hardware-Effizienz, local-first Denken und LLMs als Erklärungs-Schicht statt als unkontrollierte Autorität.  
+**EN:** Public concepts: deterministic architecture, knowledge systems, auditability, hardware efficiency, local-first thinking, and LLMs as an explanation layer instead of an uncontrolled authority.
 
-## 🎓 Ausbildung
+## Kompetenzen / Skills
 
-**05/2024** – IP/TCP Weiterbildung
+![Skill Map](assets/skill-map.svg)
 
-**09/2022 – 06/2023** – BFI IT-Schule Wien
+### Systems / Systeme
 
-**03/2022** – WIFI Wien (C++ Grundlagen)
+| DE | EN |
+|---|---|
+| Linux | Linux |
+| Ubuntu / Debian | Ubuntu / Debian |
+| Proxmox VE | Proxmox VE |
+| Docker | Docker |
 
-**09/2020 – 01/2022** – HTL Bautechnik
+### Networking / Netzwerke
 
-**09/2014 – 06/2018** – NMS IT
+| DE | EN |
+|---|---|
+| TCP/IP Grundlagen | TCP/IP basics |
+| pfSense | pfSense |
+| OPNsense | OPNsense |
+| Sophos | Sophos |
+| Firewalls | Firewalls |
 
----
+### Programming / Programmierung
 
-## 💼 Berufserfahrung
+| DE | EN |
+|---|---|
+| Python Grundlagen | Python basics |
+| C / C++ Grundlagen | C / C++ basics |
+| JavaScript Grundlagen | JavaScript basics |
+| Bash / CMD / PowerShell Grundlagen | Bash / CMD / PowerShell basics |
 
-**10/2025 – 11/2025**
-Praktikum – DigiTechno e.U.
+### Hardware & Making / Hardware & Making
 
-**12/2024 – 06/2025**
-Frühschicht Aushilfe – Lidl
+| DE | EN |
+|---|---|
+| Server-Setup | Server setup |
+| PC-Bau | PC building |
+| 3D-Druck | 3D printing |
+| TinkerCAD | TinkerCAD |
+| FreeCAD im Lernen | FreeCAD learning |
+| Arduino / ESP32 Grundlagen | Arduino / ESP32 basics |
 
-**12/2023 – 06/2024**
-Tele-Tec Telekommunikation
+## Ausbildung / Education
 
----
+| Zeitraum / Period | Station / Entry | DE | EN |
+|---|---|---|---|
+| 05/2024 | IP/TCP Weiterbildung | Weiterbildung mit Fokus auf Netzwerkgrundlagen und Protokollverständnis. | Training focused on networking fundamentals and protocol understanding. |
+| 09/2022 – 06/2023 | BFI IT-Schule Wien | IT-Schule mit praxisnahen Grundlagen und strukturiertem Arbeiten. | IT school with practical fundamentals and structured work. |
+| 03/2022 | WIFI Wien, C++ Grundlagen | Einstieg in die C++-Grundlagen. | Entry-level C++ fundamentals. |
+| 09/2020 – 01/2022 | HTL Bautechnik | Technische Schulphase mit breitem Praxisbezug. | Technical school phase with broad practical exposure. |
+| 09/2014 – 06/2018 | NMS IT | Frühe IT-orientierte Schulphase. | Early IT-oriented school phase. |
 
-## ⚙️ Kompetenzen
+## Berufserfahrung / Work Experience
 
-### 🧩 Problemlösung & Denkweise
+| Zeitraum / Period | Station / Entry | DE | EN |
+|---|---|---|---|
+| 10/2025 – 11/2025 | Praktikum – DigiTechno e.U. | Praktische Arbeitserfahrung im technischen Umfeld. | Practical work experience in a technical environment. |
+| 12/2024 – 06/2025 | Frühschicht Aushilfe – Lidl | Zuverlässige Unterstützung im Arbeitsalltag mit klaren Abläufen. | Reliable support in daily operations with clear procedures. |
+| 12/2023 – 06/2024 | Tele-Tec Telekommunikation | Erfahrung in einem technischen und kommunikationsnahen Umfeld. | Experience in a technical and communications-oriented environment. |
 
-* Logisches Lösen von EDV-Hindernissen und technischen Problemstellungen
-* strukturiertes Analysieren und Optimieren von Systemen
-* praxisorientiertes Lernen (Try & Improve)
+## Interessen / Interests
 
----
+| DE | EN |
+|---|---|
+| Eigene Projekte, Ideen und Konzepte entwickeln | Developing own projects, ideas, and concepts |
+| Kochen & Grillen | Cooking & grilling |
+| Musik hören | Listening to music |
+| Technik, Hardware, Systeme | Technology, hardware, systems |
+| 3D-Druck / CAD / Making | 3D printing / CAD / making |
 
-### 🖥️ Systeme & IT
+## Abschluss-Zitat / Closing Quote
 
-* Proxmox VE, Docker, Linux (Ubuntu, Debian)
-* Netzwerkgrundlagen, Firewalls (OPNsense, pfSense, Sophos)
-* Server- & Hardware-Setup
+> **DE:** „Wissen ist Gold wert — achtsame, behutsame Bewegung macht daraus Fortschritt.“  
+> **EN:** “Knowledge is worth gold — careful, mindful movement turns it into progress.”
 
----
-
-### ⚙️ Mechanik & Fertigung
-
-* 3D-Druck (Setup, Leveling, Modelle testen)
-* CAD (TinkerCAD, erlernen von FreeCAD)
-* Interesse an CNC & Fertigungsprozessen
-
----
-
-### ⚡ Elektronik & Hardware
-
-* Arduino / ESP32
-* einfache Schaltungen & Stromkreise
-* Interesse an Motoren & Steuerung
-
----
-
-### 💻 Programmierung
-
-* Grundlagen in C/C++ und Python
-* Fokus: verstehen, analysieren, verbessern
-
----
-
-### 🤖 KI & Systeme
-
-* Nutzung von KI-Tools für Debugging, Dokumentation und Struktur
-* Interesse an deterministischen Systemen und effizienten Architekturen
-
----
-
-## 🎯 Interessen & Hobbys
-
-* Kochen & Grillen
-* Sport & Bewegung
-* Musik hören
-* Technik & eigene Projekte
-
----
-
-# „Wissen ist Gold wert — achtsame behutsame Bewegung macht daraus Fortschritt.“
-
----
