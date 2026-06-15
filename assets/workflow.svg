@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Workflow</title>
+  <desc id="desc">Practical workflow for observing, narrowing down, testing, improving and documenting technical problems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <text x="72" y="56" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">Workflow / Arbeitsweise</text>
+  <text x="72" y="84" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Observe, narrow down, build, test, improve, document / Beobachten, eingrenzen, bauen, testen, verbessern, dokumentieren.</text>
+  <path d="M130 168 H1070" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130 168 H280" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#1f2937" stroke="#475569" stroke-width="1.5">
+    <rect x="70" y="130" width="150" height="76" rx="18"/>
+    <rect x="250" y="130" width="150" height="76" rx="18"/>
+    <rect x="430" y="130" width="150" height="76" rx="18"/>
+    <rect x="610" y="130" width="150" height="76" rx="18"/>
+    <rect x="790" y="130" width="150" height="76" rx="18"/>
+    <rect x="970" y="130" width="150" height="76" rx="18"/>
+  </g>
+  <g fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="108" y="158" font-size="17" font-weight="700">Observe</text>
+    <text x="96" y="180" font-size="13">Beobachten</text>
+
+    <text x="284" y="158" font-size="17" font-weight="700">Narrow</text>
+    <text x="280" y="180" font-size="13">Eingrenzen</text>
+
+    <text x="463" y="158" font-size="17" font-weight="700">Build</text>
+    <text x="452" y="180" font-size="13">Lösung bauen</text>
+
+    <text x="645" y="158" font-size="17" font-weight="700">Test</text>
+    <text x="639" y="180" font-size="13">Testen</text>
+
+    <text x="811" y="158" font-size="17" font-weight="700">Improve</text>
+    <text x="807" y="180" font-size="13">Verbessern</text>
+
+    <text x="985" y="158" font-size="17" font-weight="700">Document</text>
+    <text x="986" y="180" font-size="13">Dokumentieren</text>
+  </g>
+</svg>

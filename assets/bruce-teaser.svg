@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">BRUCE Teaser</title>
+  <desc id="desc">Abstract deterministic research concept with input, rules, trace, review, and output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <circle cx="160" cy="290" r="140" fill="#38bdf8" opacity="0.08"/>
+  <circle cx="1040" cy="80" r="120" fill="#94a3b8" opacity="0.08"/>
+  <text x="72" y="64" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="700">BRUCE / deterministic research concept</text>
+  <text x="72" y="94" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16">Public teaser only / Nur öffentlicher Teaser</text>
+  <path d="M170 200 H1030" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <g fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.75" stroke-width="2">
+    <rect x="70" y="160" width="130" height="80" rx="18"/>
+    <rect x="280" y="160" width="130" height="80" rx="18"/>
+    <rect x="490" y="160" width="130" height="80" rx="18"/>
+    <rect x="700" y="160" width="130" height="80" rx="18"/>
+    <rect x="910" y="160" width="130" height="80" rx="18"/>
+  </g>
+  <g fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">
+    <text x="97" y="201">Input</text>
+    <text x="294" y="201">Rules</text>
+    <text x="506" y="201">Trace</text>
+    <text x="708" y="201">Review</text>
+    <text x="919" y="201">Output</text>
+  </g>
+  <g fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14">
+    <text x="82" y="250">Input</text>
+    <text x="290" y="250">Rules</text>
+    <text x="500" y="250">Trace</text>
+    <text x="705" y="250">Review</text>
+    <text x="914" y="250">Output</text>
+  </g>
+  <text x="72" y="300" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16">Auditability, local-first thinking, explanation layer / Auditierbarkeit, local-first Denken, Erklärungs-Schicht.</text>
+</svg>
