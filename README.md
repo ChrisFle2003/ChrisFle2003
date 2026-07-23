@@ -171,7 +171,7 @@ goal:   understand -> test -> improve -> document
 <summary><strong>daily useage</strong></summary>
 
 | application / Applikation | period of use / verwendungszeit | motivation / Motivation |
-|---|---|
+|---|---|---|
 | Linux | daily / Täglich | Learning Linux distributions  / Linux-Distributionen kennenlernen |
 | AI, MCP and Neural-Networks | daily / Täglich | Create new Ideas & Vibe-Coding / erstellung von neuen Idden & Vibe-Coding |
 | Windows 10 | 2-4 Times a Moth / 2-4 mal im Monat | Video-Games and Holyday / Computerspiele and Urlaub |
@@ -183,7 +183,7 @@ goal:   understand -> test -> improve -> document
 <summary><strong>Home-LAB</strong></summary>
 
 | application / Applikation | period of use / verwendungszeit | useage / Verwendungszweck |
-|---|---|
+|---|---|---|
 | Proxmox | daily / Täglich | run and try Software Isolated / Software-isoliert ausführen und testen |
 | Self-Hosted Open-Source Projects | daily / Täglich | Completing tasks more cost-effectively and easily / Aufgaben kosteneffizienter und einfacher erledigen |
 
