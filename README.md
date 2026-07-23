@@ -1,8 +1,6 @@
 <div align="center">
-
-![Banner](assets/banner.svg)
-
-# Christopher Flegel / Duzi
+  
+# Christopher Fle
 
 **DE:** Wien, Österreich. Technik, Systeme, Hardware, Netzwerke und eigene Software-Ideen.  
 **EN:** Vienna, Austria. Systems, hardware, networking, and self-built software ideas.
@@ -13,11 +11,6 @@
   <a href="#projects--projekte">Projects / Projekte</a> •
   <a href="#workflow--arbeitsweise">Workflow / Arbeitsweise</a> •
   <a href="#education--ausbildung">Education / Ausbildung</a> •
-  <a href="#contact--kontakt">Contact / Kontakt</a>
-</p>
-
-<p align="center">
-  <img src="assets/badge-strip.svg" alt="Bilingual status strip with IT support, Linux, Docker, Proxmox and networking" />
 </p>
 
 **DE:** Kleine Status-Leiste für einen schnellen technischen Überblick.  
@@ -69,8 +62,6 @@ goal:   understand -> test -> improve -> document
 <a id="skills--kompetenzen"></a>
 ## Skills / Kompetenzen
 
-![Skill Map](assets/skill-map.svg)
-
 <details open>
 <summary><strong>Systems & Servers / Systeme & Server</strong></summary>
 
@@ -120,104 +111,8 @@ goal:   understand -> test -> improve -> document
 
 </details>
 
-<a id="projects--projekte"></a>
-## Projects / Projekte
-
-![Project Map](assets/project-map.svg)
-
-<details open>
-<summary><strong>PDF Color Changer Website</strong></summary>
-
-**DE:** Webtool zum Verändern von PDF-Farben für praktische Druck- und Lesbarkeitsanpassungen.  
-**EN:** Web tool for changing PDF colors for practical printing and readability adjustments.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Stack / Tech | HTML / CSS / JavaScript |
-| Status / Status | Active / Aktiv |
-| Link / Link | [Repository öffnen / Open repository](https://github.com/ChrisFle2003/PDF-Color-Changer-for-Printer_Website) |
-
-</details>
-
-<details>
-<summary><strong>PDF Color Changer Python</strong></summary>
-
-**DE:** Python-Tool für praktische PDF-Farbänderungen.  
-**EN:** Python tool for practical PDF color changes.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Stack / Tech | Python |
-| Status / Status | Active / Aktiv |
-| Link / Link | [Repository öffnen / Open repository](https://github.com/ChrisFle2003/PDF-Color-Changer_Python) |
-
-</details>
-
-<details>
-<summary><strong>MCP_REPO_Reader</strong></summary>
-
-**DE:** Tool zum strukturierten Lesen von Repository-Inhalten.  
-**EN:** Tool for structured reading of repository content.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Stack / Tech | Python / MCP |
-| Status / Status | Active / Aktiv |
-| Link / Link | [Repository öffnen / Open repository](https://github.com/ChrisFle2003/MCP_REPO_Reader) |
-
-</details>
-
-<details>
-<summary><strong>Bash / CMD / PowerShell Cheat Sheet</strong></summary>
-
-**DE:** Persönliche Sammlung nützlicher Befehle für Alltag, Lernen und Troubleshooting.  
-**EN:** Personal collection of useful commands for daily work, learning and troubleshooting.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Stack / Tech | Markdown |
-| Status / Status | Maintenance / Pflege |
-| Link / Link | [Repository öffnen / Open repository](https://github.com/ChrisFle2003/Bash-CMD-PowerShell-Cheat-Sheet) |
-
-</details>
-
-<details>
-<summary><strong>APP-Killer_v9000</strong></summary>
-
-**DE:** Kleines Hilfsprojekt zum Beenden von Anwendungen.  
-**EN:** Small helper project for terminating applications.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Stack / Tech | Scripts |
-| Status / Status | Experiment / Experiment |
-| Link / Link | [Repository öffnen / Open repository](https://github.com/ChrisFle2003/APP-Killer_v9000) |
-
-</details>
-
-<details>
-<summary><strong>BRUCE Vorschau / BRUCE Preview</strong></summary>
-
-![BRUCE Preview](assets/bruce-teaser.svg)
-
-**DE:** BRUCE ist meine langfristige Forschungs- und Architekturidee rund um deterministische, KI-nahe Systeme, überprüfbare Entscheidungswege, Wissensstrukturen und effiziente Hardware-Nutzung. Der Fokus liegt nicht auf Black-Box-Magie, sondern auf nachvollziehbaren Schritten, Auditierbarkeit und kontrollierbarer Systemlogik.  
-**EN:** BRUCE is my long-term research and architecture idea around deterministic, AI-adjacent systems, traceable decision paths, knowledge structures, and efficient hardware usage. The focus is not black-box magic, but understandable steps, auditability, and controllable system logic.
-
-**DE:** Öffentliche Konzepte: deterministische Architektur, Wissenssysteme, Auditierbarkeit, Hardware-Effizienz, local-first Denken und LLMs als Erklärungs-Schicht statt als unkontrollierte Autorität.  
-**EN:** Public concepts: deterministic architecture, knowledge systems, auditability, hardware efficiency, local-first thinking, and LLMs as an explanation layer instead of an uncontrolled authority.
-
-| Field / Feld | Value / Wert |
-|---|---|
-| Status / Status | Long-term / Langfristig |
-| Visibility / Sichtbarkeit | Public teaser only / Nur öffentlicher Teaser |
-| Link / Link | No public repo yet / Noch kein öffentliches Repo |
-
-</details>
-
 <a id="workflow--arbeitsweise"></a>
 ## Workflow / Arbeitsweise
-
-![Workflow](assets/workflow.svg)
 
 <details open>
 <summary><strong>DE: Wie ich technische Probleme angehe / EN: How I approach technical problems</strong></summary>
@@ -242,10 +137,9 @@ goal:   understand -> test -> improve -> document
 | Zeitraum / Period | DE | EN |
 |---|---|---|
 | 05/2024 | IP/TCP Weiterbildung | TCP/IP training |
-| 09/2022 - 06/2023 | BFI IT-Schule Wien | BFI IT School Vienna |
-| 03/2022 | WIFI Wien, C++ Grundlagen | C++ basics, WIFI Vienna |
+| 09/2022 - 06/2023 | IT-Schule Wien | IT School Vienna |
+| 03/2022 | Kurs für C++ Grundlagen | Course for C++ basics |
 | 09/2020 - 01/2022 | HTL Bautechnik | Technical college for construction engineering |
-| 09/2014 - 06/2018 | NMS IT | Secondary school with IT focus |
 
 </details>
 
@@ -256,7 +150,7 @@ goal:   understand -> test -> improve -> document
 |---|---|---|---|
 | 10/2025 - 11/2025 | Praktikum / Internship | Einblick in technische und organisatorische Abläufe. | Insight into technical and organizational workflows. |
 | 12/2024 - 06/2025 | Frühschicht Aushilfe / Early shift assistant | Zuverlässige Frühschichtarbeit und Unterstützung im Filialbetrieb. | Reliable early shift work and support in store operations. |
-| 12/2023 - 06/2024 | Tele-Tec Telekommunikation | Praktische Tätigkeit im Telekommunikationsumfeld. | Practical work in a telecommunications environment. |
+| 12/2023 - 06/2024 | Telekommunikation | Praktische Tätigkeit im Telekommunikationsumfeld. | Practical work in a telecommunications environment. |
 
 </details>
 
@@ -270,13 +164,30 @@ goal:   understand -> test -> improve -> document
 | Technik, Hardware, Systeme | Technology, hardware, systems |
 | 3D-Druck / CAD / Making | 3D printing / CAD / making |
 
-<a id="contact--kontakt"></a>
-## Contact / Kontakt
+<a id="projects--projekte"></a>
+## just for fun & Leisure Projects / Freizeit Projekte
 
-**DE:** Für technische Kontakte ist mein GitHub-Profil der wichtigste öffentliche Einstiegspunkt.  
-**EN:** For technical contact, my GitHub profile is the main public entry point.
+<details open>
+<summary><strong>daily useage</strong></summary>
 
-- [ChrisFle2003 auf GitHub / ChrisFle2003 on GitHub](https://github.com/ChrisFle2003)
+| application / Applikation | period of use / verwendungszeit | motivation / Motivation |
+|---|---|
+| Linux | daily / Täglich | Learning Linux distributions  / Linux-Distributionen kennenlernen |
+| AI, MCP and Neural-Networks | daily / Täglich | Create new Ideas & Vibe-Coding / erstellung von neuen Idden & Vibe-Coding |
+| Windows 10 | 2-4 Times a Moth / 2-4 mal im Monat | Video-Games and Holyday / Computerspiele and Urlaub |
+
+
+</details>
+
+<details open>
+<summary><strong>Home-LAB</strong></summary>
+
+| application / Applikation | period of use / verwendungszeit | useage / Verwendungszweck |
+|---|---|
+| Proxmox | daily / Täglich | run and try Software Isolated / Software-isoliert ausführen und testen |
+| Self-Hosted Open-Source Projects | daily / Täglich | Completing tasks more cost-effectively and easily / Aufgaben kosteneffizienter und einfacher erledigen |
+
+</details>
 
 ## Abschluss-Zitat / Closing Quote
 
