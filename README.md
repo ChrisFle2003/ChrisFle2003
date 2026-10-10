@@ -194,18 +194,23 @@ goal:   understand -> test -> improve -> document
 Please Buy me an Cofe:
 
 BTC ( Bitcoin-Network ):
-1Lob9pfuX4hHVb6dMGCXRYyPdeLKXBkUL2
 
-USDT (Ethereum-Network):
+bc1qvt22a3evept6uqexu47ar6xsy9ljc3m84tg9au
 
-0x85a1928F10823f9371388a5DD559C0798E86F3D7
+Ethereum (Ethereum-Network):
 
-USDT ( Solana-Network ):
+0xB10f545BB3463e660C70D84807f3e5C499b58403
 
-5cUqgUWzVJisAs7LxXWgA4ambKrfXrJYsveRP8CvarcE
+Solana ( Solana-Network ):
 
-USDT ( Binance-Smart-Chain ):
+9rkcsziP8hQ4ZsMSuStCUNtUJ7f2Tdd6hRkJ4R6TAZHR
 
-0x85a1928F10823f9371388a5DD559C0798E86F3D7
+BNB Chain ( Binance-Smart-Chain ):
+
+0xB10f545BB3463e660C70D84807f3e5C499b58403
+
+or send me a E-Mail: chrisi.duzi@gmail.com
+
+
 > **DE:** „Wissen ist Gold wert — achtsame, behutsame Bewegung macht daraus Fortschritt.“  
 > **EN:** “Knowledge is worth gold — careful, mindful movement turns it into progress.”
